@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Repo\cnc_projects\Flexi_Encoder_Breakout\Project Outputs for PicoBOB\Flexi_encoder_BOB_UPLOAD_GERBERS_A1\Pick Place\Flexi_encoder_BOB_CAM_OUTPUT_A1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26-04-23
+Time:       07:57
+Revision:   Not in VersionControl
+Variant:    FULL_PLACE
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"D1","ZMM5V6","TopLayer","LL-34","423.228","176.772","0","500mW - 0.1uA @ 1V 5.6V LL-34 Zener Diodes ROHS"
+"R7","4.7KO ±1%","TopLayer","0402_R","369.094","903.189","90","Chip resistor"
+"R5","4.7KO ±1%","TopLayer","0402_R","531.496","903.189","90","Chip resistor"
+"R4","4.7KO ±1%","TopLayer","0402_R","565.945","280.748","270","Chip resistor"
+"J4","691322110002","TopLayer","FP-691322110002-MFG","152.559","939.961","270","TERM BLOCK HDR 2POS 90DEG 3.5MM"
+"J3","691322110002","TopLayer","FP-691322110002-MFG","152.559","592.126","270","TERM BLOCK HDR 2POS 90DEG 3.5MM"
+"J1","691322110002","TopLayer","FP-691322110002-MFG","152.559","245.669","270","TERM BLOCK HDR 2POS 90DEG 3.5MM"
+"U1","AM26LS31CDRG4","TopLayer","SOIC-16_150mil","462.598","546.890","90","4/0 Driver - RS422, RS485 16-SOIC"
+"C5","100nF","TopLayer","0402_C","515.748","280.748","270","Chip capacitors"
+"C4","100nF","TopLayer","0402_C","477.362","817.559","90","Chip capacitors"
+"C3","100nF","TopLayer","0402_C","423.228","817.559","90","Chip capacitors"
+"C2","4.7uF","TopLayer","0402_C","392.716","251.614","0","Chip capacitor"
+"C1","100nF","TopLayer","0402_C","392.717","303.386","0","Chip capacitors"
+"J2","RJHSE-5080","TopLayer","FP-RJHSE-5080-MFG","1009.095","592.126","90","CONN MOD JACK 8P8C R/A UNSHLD"
+"R6","4.7KO ±1%","TopLayer","0402_R","423.228","903.366","90","Chip resistor"
+"R3","200O ±1%","TopLayer","0402_R","369.095","816.772","270","Chip resistor"
+"R2","200O ±1%","TopLayer","0402_R","531.496","816.772","270","Chip resistor"
+"R1","200O ±1%","TopLayer","0402_R","461.417","280.748","90","Chip resistor"
+"D15","0402 Green","TopLayer","LED_0402_1005_RED","477.362","903.189","270","LED"
