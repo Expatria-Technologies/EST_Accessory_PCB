@@ -1,4 +1,4 @@
-# GRBLHAL2000 for PrintNC EST
+# Accessory boards for Electronics Standardization
 
 ![Logo](/readme_images/logo_sm.jpg)
 
