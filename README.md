@@ -4,8 +4,7 @@
 
 Expatria Technologies EST Breakout Boards
 
-Expatria's controller boards (GRBLHAL2000 and FlexiHAL) incorporates community driven elements from the PrintNC Electronic Standardization (EST) Project. As part of this project, two additional breakout boards have been created for the user controls and limits/probe inputs. These are simple boards and could easily be milled and hand assembled, but fabrication files for each are available in the CAM_Outputs folder. The inputs are accessible via the RJ45 connectors on the Flexi-HAL mainboard. In addition, the Flexi-HAL is intended to be used with the Expatria Real-Time jog controller or similar peripheral:
-
+Expatria's controller boards (GRBLHAL2000 and FlexiHAL) incorporates community driven elements from the PrintNC Electronic Standardization (EST) Project. As part of this project, two additional breakout boards have been created for the user controls and limits/probe inputs. These are simple boards and could easily be milled and hand assembled, but fabrication files for each are available in the CAM_Outputs folder. The inputs are accessible via the RJ45 connectors on the Flexi-HAL mainboard and on the GRBLHAL2000.
 
 ### Limit and Sensor Breakout
 
@@ -33,10 +32,10 @@ The RJ45 pinout:
 <img src="/readme_images/user_rj45_pinout.jpg" width="150">
 
 ### Encoder Breakout
-<img src="/readme_images/User_mod_render.jpg" width="400">
+<img src="/readme_images/encoder_render.jpg" width="400">
 
-Standard GRBL functions are mapped to 4 inputs.  These signals are primarily intended to be used via the user RJ45 connector.  For convenience, the HALT and DOOR signals are also exposed via 3 wire connections on the main PCB.  When multiplexed these signals must be NO logic.  A sample design for a button panel utilizing clear PETG buttons is included in the CAM_Outputs folder.
+The encoder breakout board allows you to use the encoder inputs as Auxilliary GPIO.  The inputs are pulled up to 5V and should be connected to NPN outputs.  These high-speed inputs should be kept short and connection to the controller should be via the RJ45 connection so that the integrity of differential transmission is preverved.
 
 The RJ45 pinout:
 
-<img src="/readme_images/user_rj45_pinout.jpg" width="150">
+<img src="/readme_images/encoder_rj45_pinout.jpg" width="150">
