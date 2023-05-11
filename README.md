@@ -1,9 +1,14 @@
-# Accessory boards for Electronics Standardization
-
 ![Logo](/readme_images/logo_sm.jpg)
-
 # Expatria Technologies EST Breakout Boards
 <img src="/readme_images/IMG_0117.jpg" width="800">
+
+Expatria Technologies Flexi-HAL EST Accessory boards
+
+Currently available in our online store:
+
+[https://expatria.myshopify.com/products/flexi-hal](https://expatria.myshopify.com/products/est-breakout-boards)
+
+Please consider buying a board to support our open-source designs.
 
 Expatria's controller boards (GRBLHAL2000 and FlexiHAL) incorporates community driven elements from the PrintNC Electronic Standardization (EST) Project. As part of this project, two additional breakout boards have been created for the user controls and limits/probe inputs. These are simple boards and could easily be milled and hand assembled, but fabrication files for each are available in the CAM_Outputs folder. The inputs are accessible via the RJ45 connectors on the Flexi-HAL mainboard and on the GRBLHAL2000.
 
