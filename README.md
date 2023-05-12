@@ -6,7 +6,7 @@ Expatria Technologies Flexi-HAL EST Accessory boards
 
 Currently available in our online store:
 
-[https://expatria.myshopify.com/products/flexi-hal](https://expatria.myshopify.com/products/est-breakout-boards)
+[https://expatria.myshopify.com/products/est-breakout-boards](https://expatria.myshopify.com/products/est-breakout-boards)
 
 Please consider buying a board to support our open-source designs.
 
