@@ -40,7 +40,7 @@ The RJ45 pinout:
 ### Encoder Breakout
 <img src="/readme_images/encoder_render.jpg" width="400">
 
-The encoder breakout board allows you to use the encoder inputs as auxilliary inputs.  The inputs are pulled up to 5V and should be connected to NPN outputs.  These high-speed inputs should be kept short and connection to the controller should be via the RJ45 connection so that the integrity of differential transmission is preverved.
+The encoder breakout board allows you to use the encoder inputs as auxilliary inputs.  The inputs are pulled up to 5V and should be connected to NPN outputs.  These high-speed inputs should be kept short and connection to the controller is via the RJ45 connection so that the integrity of differential transmission is preserved.
 
 The RJ45 pinout:
 
