@@ -45,3 +45,7 @@ The encoder breakout board allows you to use the encoder inputs as auxilliary in
 The RJ45 pinout:
 
 <img src="/readme_images/encoder_rj45_pinout.jpg" width="150">
+
+The terminal plug pinout:
+
+<img src="/readme_images/encoder_bob_pinout.png" width="400">
