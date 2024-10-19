@@ -22,6 +22,8 @@ The RJ45 pinout:
 
 <img src="/readme_images/limit_rj45_pinout.jpg" width="150">
 
+When using an open-air touch plate with the limit BoB, an optocoupler module is reccommended.
+
 ### User Button Breakout
 <img src="/readme_images/User_mod_render.jpg" width="400">
 
