@@ -33,15 +33,13 @@ The RJ45 pinout:
 
 <img src="/readme_images/user_rj45_pinout.jpg" width="150">
 
-### Encoder Breakout
+### Encoder Breakout MK2
 <img src="/readme_images/encoder_render.jpg" width="400">
 
-The encoder breakout board allows you to use the encoder inputs as auxilliary inputs.  The inputs are pulled up to 5V and should be connected to NPN outputs.  These high-speed inputs should be kept short and connection to the controller is via the RJ45 connection so that the integrity of differential transmission is preserved.
+The encoder breakout board allows you to use the encoder inputs as auxilliary opto-coupled inputs.  The pinout matches the 3 pin inputs of the FlexiHAL.  By default the inputs are powered with 12V and can be used with either NPN or PNP sensors or switchese by setting the jumpers.  By removing R2 and soldering the appropriate bridghes on the right side of the board you can also power the inputs with 5V, 12V or 24V.
 
-The RJ45 pinout:
-
-<img src="/readme_images/encoder_rj45_pinout.jpg" width="150">
-
-The terminal plug pinout:
+The default jumper locations are shown below.  This sets all inputs to PNP and uses the default RJ45 pinout:
 
 <img src="/readme_images/encoder_bob_pinout.png" width="400">
+
+To use the Encoder BOB MK2 with A5 or earlier boards, you need to rotate the 2 jumpers next to the RJ45 jack so that they are vertical instead of horizontal in the above image.
