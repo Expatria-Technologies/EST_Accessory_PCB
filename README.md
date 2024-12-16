@@ -38,7 +38,7 @@ The RJ45 pinout:
 
 The encoder breakout board allows you to use the encoder inputs as auxilliary opto-coupled inputs.  The pinout matches the 3 pin inputs of the FlexiHAL.  By default the inputs are powered with 12V and can be used with either NPN or PNP sensors or switchese by setting the jumpers.  By removing R2 and soldering the appropriate bridghes on the right side of the board you can also power the inputs with 5V, 12V or 24V.
 
-The default jumper locations are shown below.  This sets all inputs to PNP and uses the default RJ45 pinout:
+The default jumper locations are shown below.  This sets all inputs to NPN and uses the default RJ45 pinout:
 
 <img src="/readme_images/encoder_bob_pinout.png" width="400">
 
